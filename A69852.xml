@@ -1,0 +1,602 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A dialogue between the King of France and the late King James, occasion'd by the death of the Queen. Written originally in French, at Paris</title>
+         </titleStmt>
+         <extent>Approx. 45 KB of XML-encoded text transcribed from 14 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A69852</idno><idno type="EEBO-CITATION">99834903</idno>
+  <idno type="VID">39543</idno>
+  <idno type="EEBO-PROQUEST">2264178412</idno>
+  
+            <idno type="STC">Wing D1332A</idno>
+            <idno type="STC">ESTC R8890</idno>
+            <idno type="PROQUEST">99834903</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99834903e"/>
+            <note>(EEBO-TCP ; phase 2, no. A69852)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 39543)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 464:22, 1829:2)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A dialogue between the King of France and the late King James, occasion'd by the death of the Queen. Written originally in French, at Paris</title>
+                  <author>James II, King of England, 1633-1701, associated name.</author>
+                  <author>Louis XIV, King of France, 1638-1715, associated name.</author>
+               </titleStmt>
+               <extent>[2], 25 p.   </extent>
+               <publicationStmt>
+                  <publisher>printed for Richard Baldwin, near the Oxford-Arms, in Warwick-lane,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1695.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>A satire in the form of a play.</note>
+                  <note>French original not traced.</note>
+                  <note>Reproduction of the original in the Henry E. Huntington Library and Art Gallery.</note>
+                  <note>Entry for L3118 cancelled in Wing (2nd ed.).</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="personal_name">James --  II, --  King of England, 1633-1701 --  Fiction --  Early works to 1800.</term>
+               <term type="personal_name">James --  II, --  King of England, 1633-1701 --  Humor --  Early works to 1800.</term>
+               <term type="personal_name">Louis --  XIV, --  King of France, 1638-1715 --  Fiction --  Early works to 1800.</term>
+               <term type="personal_name">Louis --  XIV, --  King of France, 1638-1715 --  Humor --  Early works to 1800.</term>
+               <term type="personal_name">Mary --  II, --  Queen of England, 1662-1694 --  Fiction --  Early works to 1800.</term>
+               <term type="geographic_name">Great Britain --  Politics and government --  1689-1702 --  Humor --  Early works to 1800.</term>
+               <term type="geographic_name">Europe --  Politics and government --  1648-1715 --  Humor --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-07 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2015-01 </date>
+            <label>John Latta </label>Sampled and proofread </change>
+         <change>
+            <date>2015-01 </date>
+            <label>John Latta</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:39543:1"/>
+            <pb facs="tcp:39543:1"/>
+            <p>A DIALOGUE BETWEEN THE King of France AND THE <hi>Late King James,</hi> Occasion'd by the Death of the Queen.</p>
+            <p>Written Originally in <hi>French,</hi> at <hi>Paris.</hi>
+            </p>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>Rickard Baldwin,</hi> near the <hi>Oxford-Arms,</hi> in <hi>Warwick lane,</hi> 1695.</p>
+         </div>
+      </front>
+      <body>
+         <div type="dialogue">
+            <pb facs="tcp:39543:2"/>
+            <pb n="1" facs="tcp:39543:2"/>
+            <head>A DIALOGUE BETWEEN THE King of France AND THE Late King JAMES, Occasion'd by the Death of the Queen.</head>
+            <sp>
+               <speaker>
+                  <hi>King of</hi> France</speaker>
+               <stage>Solus.</stage>
+               <p>SUre Princes never ought to be alone; for when they are, they think: And whereas that Prince who thinks and is not wretched. Thought's a thin, meager, haggard pale Magi<g ref="char:EOLhyphen"/>cian, envious of our repose, who conjures up ourr
+<pb n="2" facs="tcp:39543:3"/>vices in a throng, and shews 'em in such ghastly forms, we tremble to behold 'em: Then puts the question home upon our Souls, and asks us what it is that tempts us to be wicked.</p>
+               <p>What is't that tempts us? Why Ambition tempts us: We wou d Command, Possess, Dispose, and be Ador'd: For Gods do so, and therefore Gods are happy.— A specious answer this; and one wou'd think, that Man cou'd ne'er mistake the Path to Bliss, by following the steps of Heaven; but man, alas, is a poor sickly wretch; his Stomach's weak, and quickly Cloy'd; he shares with Heaven in no<g ref="char:EOLhyphen"/>thing but desires, his wishes are as copious as his Soul; but tast as bounded as his worthless Body. when therefore this Machine, is plac't too high, the Head turns round, and giddy Qualms ensue; the small receptacle of Mortals Joys, is in a mo<g ref="char:EOLhyphen"/>ment full; yet still the streams of Luxury flow in, till all delight is drown'd, in floods of Plenty. But were that all, (as wou'd to Heaven it were) were want of tast the sole complaint we had; Princes would be less wretched than they are; the gaul of Conscience now lies bitter on their Souls, and makes them shiver at the Crimes they do: For should there be a God? which God forbid—</p>
+            </sp>
+            <stage>Enter Page of the Back Stairs.</stage>
+            <sp>
+               <speaker>P.</speaker>
+               <p>Monsieur <hi>de Pontchartrain</hi> is here, Sir.</p>
+            </sp>
+            <sp>
+               <speaker>K.</speaker>
+               <p>Let him enter.</p>
+               <stage>Exit P.</stage>
+               <p>—Business is welcome now: It may divert this last cross thought.</p>
+            </sp>
+            <stage>
+               <hi>Enter Monsieur</hi> de Pontchartrain.</stage>
+            <sp>
+               <pb n="3" facs="tcp:39543:3"/>
+               <speaker>M. de P.</speaker>
+               <p>I bring important news Sir; the Princess of <hi>Orange</hi> is dead.</p>
+            </sp>
+            <sp>
+               <speaker>K.</speaker>
+               <p>Dead? Whence comes the News?</p>
+            </sp>
+            <sp>
+               <speaker>M. de P.</speaker>
+               <p>From <hi>St. Germains</hi> Sir.</p>
+            </sp>
+            <sp>
+               <speaker>K.</speaker>
+               <p>Then 'tis false: Their intelligence is as bad as their cause.</p>
+            </sp>
+            <stage>Re-enter Page.</stage>
+            <sp>
+               <speaker>P.</speaker>
+               <p>Here's an Express with Letters Sir from <hi>Callis.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>M. de P.</speaker>
+               <p>Perhaps a confirmation.</p>
+            </sp>
+            <sp>
+               <speaker>K.</speaker>
+               <p>Let him in.</p>
+               <stage>Exit P.</stage>
+            </sp>
+            <stage>Enter the Express.</stage>
+            <sp>
+               <speaker>K.</speaker>
+               <p>What News do you bring us Sir.</p>
+            </sp>
+            <sp>
+               <speaker>Ex.</speaker>
+               <p>What I hope is welcome. The Princess of <hi>Orange</hi> is dead. Your saithful Servant, Sir, at <hi>Lon<g ref="char:EOLhyphen"/>don,</hi> gave me this Letter, within these Eight and Forty hours.</p>
+            </sp>
+            <sp>
+               <speaker>K.</speaker>
+               <p>'Tis well; thy diligence and his shall be re<g ref="char:EOLhyphen"/>warded. Retire.</p>
+               <stage>Exit Ex.</stage>
+            </sp>
+            <sp>
+               <speaker>M. de P. Reads.</speaker>
+               <p>
+                  <hi>Sir. Our Queen is dead of the Small Pox, in Six days: Her death has shook the House, I hope 'twill fall.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>K.</speaker>
+               <p>Well hop't my Friend: Thy master hopes so too, but there's a strong Foundation still to keep it up. Ha: <hi>Pontchartrain?</hi> What's thy Opinion of this stroak of Fate?</p>
+            </sp>
+            <sp>
+               <speaker>M. de P.</speaker>
+               <p>Sir my Opinion's no yet form'd; nor will be, till I know your juster thoughts.</p>
+            </sp>
+            <sp>
+               <speaker>K.</speaker>
+               <p>Why then we'll model thine and mine,
+<pb n="4" facs="tcp:39543:4"/>by one that's wiser than us both. Follow me.</p>
+               <stage>Exeunt.</stage>
+            </sp>
+            <stage>
+               <hi>Madam</hi> Maintenon <hi>in her Closet at Prayers.</hi>
+            </stage>
+            <sp>
+               <speaker>M M.</speaker>
+               <p>—<hi>And so O Lord I conclude with thy most holy Servant</hi> David, <hi>that above all things it may please thee, with Fire, and Sword, Plague, and Famine, Thunder, Lightening, Death and Damnation, to regale my Enemies without exception.</hi>
+               </p>
+            </sp>
+            <stage>Enter Waiting Woman.</stage>
+            <sp>
+               <speaker>W. W.</speaker>
+               <p>Madam the King.</p>
+            </sp>
+            <stage>
+               <hi>Enter the</hi> King, <hi>and Monsieur</hi> de Pontchartrain.</stage>
+            <sp>
+               <speaker>K.</speaker>
+               <p>Madam, I bring you chearful News. The grand supporter of our dangerous Foe is Dead: The Prince of <hi>Orange</hi> is a Widdower.</p>
+            </sp>
+            <sp>
+               <speaker>M M. Te Deum Laudamus.</speaker>
+               <p>This News has weight in t. How do the Rebels take it?</p>
+            </sp>
+            <sp>
+               <speaker>K.</speaker>
+               <p>That I have no account of yet: But without doubt they mourn her heartily; she was their dar<g ref="char:EOLhyphen"/>ling</p>
+            </sp>
+            <sp>
+               <speaker>M. M.</speaker>
+               <p>She deserv'd to be so: For had she liv'd, she had made 'em great and happy. Nature had form'd her to their nicest wishes. She had Wit, yet she was Wise; she had Fire yet she had Temper; she was Courteous, yet Reserved; she was Modest, yet Resolv d. A Glotious Soveraign she d in time have been; she knew the secret Path that leads to grandeur on the <hi>English</hi> Throne; be<g ref="char:EOLhyphen"/>youd all Limits she'd have born her sawy; by
+<pb n="5" facs="tcp:39543:4"/>making't easy to dispute her power. 'Tis well she's gone</p>
+            </sp>
+            <sp>
+               <speaker>K.</speaker>
+               <p>'Tis well indeed; for whilst she liv'd, Fate wore a sullen, gloomy doubtful face, which in the midst of our success, made us look pale with fear. 'Twas she that rally'd still our beaten foes; 'Twas for her sake the close Luxurious Senate so freely open'd their beloved Viols, and sent such portions of their Golden Cordial, to the poor fainting League. You ll see em now grow cool, as a sworn friend just when you want his Aid. Their grand designs will moulder into dust; and all their Giant projects dwindle down to Pigmys. Courage my Banker; make my Purse hold out but two short Summers more, and thou, and I, and we shall all be great, fixt as the Sun, in spight of 'em I ll stand, and with my Rays disperse their envious Clouds; thou sha't behold 'em, like a crew of Dogs, who in a Frenzy have attaqu't a Lyon, lye at a di<g ref="char:EOLhyphen"/>stance, lick their Wounds, and howl. I know thou mournst my wretched people, thou fain wouldst put a period to their woes. But am I not to be preferr'd to them? Must I be wretched to supply their wants? Thou'st say perhaps their wants extend to bread, that were I forc't to quit even half my Realm, there still would be a Kingly Portion left me. Alas, Thou art too good, even to conceive, what 'tis a Prince esteems a Princes Portion. If in the Infinity of his desires, his pee<g ref="char:EOLhyphen"/>vish Appetite grow sick with Plenty, restless and cloy'd, prompts him but to a thought, that by the ruin of some Neighbouring State, he may divert a few uneasy hours: He signs their doom, then let his power fall short of his design; the Slave who works
+<pb n="6" facs="tcp:39543:5"/>for bread, yet works and starves, is not so rackt as he. No: Had I been lowly born, and humbly bred, I then perhaps had had a Soul like thine, compassionate and good; but 'tis too late to turn Philosopher, I am a King? Would I were more, or less.</p>
+            </sp>
+            <sp>
+               <speaker>M. de P.</speaker>
+               <p>The peoples misery, Sir, indeed is great, I wish their Prosperity were equal to their victo<g ref="char:EOLhyphen"/>ries: But tho I may in some measure appear touch't with their misfortunes, I hope your Majesty will believe my gratitude for all your Royal fa<g ref="char:EOLhyphen"/>vours, will guide my wishes; to your Will and Pleasure.</p>
+            </sp>
+            <sp>
+               <speaker>M. M.</speaker>
+               <p>The King is satisfy'd with your Integrity: You have prov'd your self his Faithful Servant, and he believes he has your friendship too; but truly <hi>Pontchartrain</hi> both he and I, have often smil'd to see so much humanity dwell in a Statesman breast. Sure business has so taken up your thoughts, you han't had time to find out your mistake. Have you yet well consider'd on what terms mankind con<g ref="char:EOLhyphen"/>verse In War you ll own 'tis lawful to raise contri<g ref="char:EOLhyphen"/>bution on the Enemy; the nicest Casuist I think al<g ref="char:EOLhyphen"/>lows it. And what's the World throughout but one continu'd Theatre of War; does living in one Na<g ref="char:EOLhyphen"/>tion or one House set men at Peace? what are our Kinsmen. Brothers, Fathers, Sons, but Enemies? Husband and Wife, are they not still at Ods? Is'nt Friend to Friend upon his constant Guard? Who dares lye down to sleep, and leave his Door un<g ref="char:EOLhyphen"/>lockt? Has not each man his Weapons by his side? 'Tis true, the Sword is somewhat out of use, in our subdivided Wars, because our hands are ty'd; but we have our instruments of ruin; instead of Swords,
+<pb n="7" facs="tcp:39543:5"/>Men fight with Rolls of Partchment; the Lawyer's General, and leads 'em on: Spares no encourage<g ref="char:EOLhyphen"/>ment that words can give; harrangues 'em on the weakness of their Foe; demonstrates Victory infalli<g ref="char:EOLhyphen"/>ble, so marches on to Battle: Where let which party will lye stretcht upon the ground; they're both assur'd of being undone alike. For an equi<g ref="char:EOLhyphen"/>volent to Rapes, (that modest perquisite of War) who spares for Oaths of friendship to his Neigh<g ref="char:EOLhyphen"/>bour; that by receiving him into his House, he may present him with a fair occasion, to blast his Ho<g ref="char:EOLhyphen"/>nour, and debauch his Wife; and as for Treasure, to support our enterprizes, don't we screw up in<g ref="char:EOLhyphen"/>vention till it cracks; isnt each mans brain a <hi>Pont<g ref="char:EOLhyphen"/>chartrain</hi> to him, that studies Nights and Days for fresh supplys. Who cares what others feel, so he himself is at ease? Shew me among your vaunted Patriots, one man who will retrench his Luxury, to give his Tenant shoes; that will remit the tythe of his Revenue, to set a hundred Families at ease? He'll screw his Rents, to the last peg they'll mount, and think it is not worth one wandring thought, whither his Peasants and their Hogs eat in one Dish or no. And what's the difference 'twixt Rents and Taxes? Landlord and Tenant, is but King and People, and what the former does, the latter sure may do.</p>
+               <p>No: Let every thing be levell'd down to earth, crawl like a Worm, and never dare, without the Royal Aid, aspire to more, than food that they may live, and life that they may serve. For those whom Heaven has furnisht with such Talents, as by their Courage, Beauty, or their Wit, they may in diffe<g ref="char:EOLhyphen"/>renr spheres serve or divert their Lord; let them
+<pb n="8" facs="tcp:39543:6"/>be taken from the crowd, and by his bounty rais'd. But let distinctions still proceed from him, and none be so presumptuous even to think of growing Rich, or Great, without his leave.</p>
+            </sp>
+            <sp>
+               <speaker>K.</speaker>
+               <p>Of what importance is the man called Noble, either to Heaven or Farth, or Thee or Me. An I<g ref="char:EOLhyphen"/>dle, Worthless, despicable drone: Too Rich to think desert is worth his care. Who 'cause is Ancestors had merit, pretends a Title to their wealth and greatness. But I pretend it should be known, who will have Riches shall deserve 'em first. With one small puff of breath, I'll blow away these locusts of the Land; 'tis they devour the Fruits on't, 'tis not I. What I consume, is for the peoples use, I save 'em from the fury of their Foes, and make their name sound terrible abroad. I sacrifice for them my Royal rest; they lose for me a little worthless Blood, whilst I divide with them their sordid pelf, they share with me, the Glory of my Arms. Of every Laurel every wretch has part; the Body's honour'd, when the Head is Crowned. Even to my Pleasures still my Slaves partake; the Limbs are wanton, when the Heart is gay. The Sun, that bright preserver of our beings, that gene<g ref="char:EOLhyphen"/>rous source of Life and Health and Joy, on whose kind dispensations all depend, seems Ravenous as King.</p>
+               <p>Does he not suck the Sea, and drain the Land, devour the surface of the one, and penetrate the bowels of the other? Is he content with all that they can give? Does he not still cry out for more and more? Yes; he would have each drop of moi<g ref="char:EOLhyphen"/>sture his. But what is paid him in unwholsome mists, returns in fruitful showers, and Heavenly Dew.</p>
+            </sp>
+            <sp>
+               <pb n="9" facs="tcp:39543:6"/>
+               <speaker>M. M.</speaker>
+               <p>When Kings are Cyphers, Fortune rules the World; a Reign for Knaves and Fools to flourish in: for Fortune's blind, and bubbled of her favours; but Kings have Eyes to recompence desert, and there<g ref="char:EOLhyphen"/>fore Kings should have the gift of all; I say the gift, for 'tis alas but that: Princes can ear no more than rural Swains. When nations cry against their wild expence, and lay their costly pleasures to their charge they little think how small a share is theirs; for no<g ref="char:EOLhyphen"/>thing's theirs but what they can enjoy, and that —</p>
+            </sp>
+            <sp>
+               <speaker>K.</speaker>
+               <p>By Heaven 'twere hard to envy 'em. Courts are unknown to those whoenvy Kings, but wild mistake runs round the giddy Globe, and each man forms a Hell within himself, from a false glazing light of Hea<g ref="char:EOLhyphen"/>ven in others: for if it be upon a Throne be Heaven, let me sink down to Hell; there may be rest perhaps, but here there's none: State, Grandeur, Business, War, Drums, Trumpets, Noise, Confusion lead us on, till Youth, and Heat, and Strength, and Life worn down, we crawl into some sudden close retreat, and fret out the small remnant of our days, in anxi<g ref="char:EOLhyphen"/>ous thoughts of a past age of follies. So Asses, hung with Bells about their ears, insensibly through dirt and mire trudge on, till Nature spent, at length they sink at once, and feel, too late, the burden they have born.</p>
+               <p>But to the present business: What may we hope from this great Womans's Death.</p>
+            </sp>
+            <stage>Enter Page.</stage>
+            <sp>
+               <speaker>P.</speaker>
+               <p>Sir, the King of <hi>England</hi>'s here.</p>
+            </sp>
+            <sp>
+               <speaker>K.</speaker>
+               <p>Nay, then we shall be enlightned.</p>
+            </sp>
+            <sp>
+               <pb n="10" facs="tcp:39543:7"/>
+               <speaker>M. M.</speaker>
+               <p>The first consequence he'll draw from it, will be his own Re-establishment in a fortnight.</p>
+            </sp>
+            <stage>
+               <hi>Enter King</hi> James.</stage>
+            <sp>
+               <speaker>K. J.</speaker>
+               <p>Sir, here's great News, Sir, My Daughter the princess of <hi>Orange</hi> is dead of the small Pox, Sir; I could not sleep till I had waited upon your Majesty, to consider what's to be done; Sir, I believe, Sir, I shall be call'd home into <hi>England</hi> very suddenly; for all my Intelligence, Sir, I say, Sir, all my Intelligence, assures me, the People are very weary of the Prince of <hi>Orange,</hi> for he s a stranger, Sir; and so, Sir, they don't love strangers; but they love me, for I'm a true <hi>Englishman;</hi> I have told 'em so upon forty occa<g ref="char:EOLhyphen"/>sions, and they are mighty sorry that ever they parted with me, and they'd fain have me again, and espe<g ref="char:EOLhyphen"/>cially now my Daughter, the Princess of <hi>Orange,</hi> is dead; for, Sir, she was a cunning Woman, Sir, and talkt to 'em, and diverted 'em, and so, Sir, they were not so sensible of my Loss. But now your Ma<g ref="char:EOLhyphen"/>jesty will see, Sir, that the Prince of <hi>Orange</hi> will lock himself up, and won't court 'em; and then, Sir, they'll grow surly, and make a Plot, for I know 'em, and so, Sir, they'll send for me: But the thing will go a great deal better, if your Majesty please but to order me a hundred Men of War to clear the passage, forty thousand Men to land, and seven or eight thousand Pistoles, to equip those that come in to me at first, Sir, are my chief friends; and my chief Friends, Sir, want Money, and so, Sir—</p>
+            </sp>
+            <sp>
+               <speaker>K.</speaker>
+               <p>Pray, Sir, how does the Queen?</p>
+            </sp>
+            <sp>
+               <speaker>K. J.</speaker>
+               <p>She's not very well, Sir, else she'd have come too. And so, Sir, I say, I don't question but all will
+<pb n="11" facs="tcp:39543:7"/>go well; for, Sir, my Lord <hi>Griffin</hi> thinks so; I say, Sir, my Lord <hi>Griffin;</hi> and he knows. But to make all sure, I think 'tis best to beat 'em first at Sea, and then—</p>
+            </sp>
+            <sp>
+               <speaker>K.</speaker>
+               <p>How has your Majesty found the Road to day?</p>
+            </sp>
+            <sp>
+               <speaker>K. J.</speaker>
+               <p>Very bad, Sir; and then, Sir, I say, when once they are beaten at Sea, we may land any where it's all alike, for the Prince of <hi>Orange</hi> did so; and when he was landed every body was for him; and so, Sir, when I'm landed, every body'll be for me. The man that brought me the News of my Daughter, the Princess of <hi>Orange</hi>'s, Death, sayshe's sure on't. And so, Sir, the man being sure on't, Your Majesty's Ar<g ref="char:EOLhyphen"/>my will run— will run— will run, no risque at all, Sir.</p>
+            </sp>
+            <sp>
+               <speaker>K.</speaker>
+               <p>Does your Majesty design to go into Mourn<g ref="char:EOLhyphen"/>ing?</p>
+            </sp>
+            <sp>
+               <speaker>K. J.</speaker>
+               <p>No, Sir: For I'm very glad my Daughter's dead; and I never could dessemble since I was a King. Your Majesty may remember (for I remem<g ref="char:EOLhyphen"/>ber, Sir) how I told the Parliament, that, how I told 'em, to their faces, I did not care a fig 'em.</p>
+            </sp>
+            <sp>
+               <speaker>M. M.</speaker>
+               <p>'Twas greatly done indeed.</p>
+            </sp>
+            <sp>
+               <speaker>K. J.</speaker>
+               <p>Yes, Madam; I did all things above board: I own'd my self a Catholick; and I set up an Ecclesi<g ref="char:EOLhyphen"/>astical Court; and I suspended the Bishop of <hi>London;</hi> and sent for the Lords into my Closet, and without more ado, I askt them if they would take off the Test, and then they said, No; and then I turn'd 'em out of their places, and then they were angry, and then I did not care; and so I put a Jesuit into my Privy Council, and the whole Society into my Cabinet; and I call'd over the <hi>Irish;</hi> and sent the Bishops to the Tower; and broke all the Charters;
+<pb n="12" facs="tcp:39543:8"/>and just as I was ordering Mass to be said in <hi>Westmin<g ref="char:EOLhyphen"/>ster</hi> Abby, the Prince of <hi>Orange</hi> came and spoil'd all. But I did all above board, Sir.</p>
+            </sp>
+            <sp>
+               <speaker>K.</speaker>
+               <p>Ay, Sir.</p>
+            </sp>
+            <sp>
+               <speaker>K. J.</speaker>
+               <p>Yes, Sir, all above board.</p>
+            </sp>
+            <sp>
+               <speaker>M. M.</speaker>
+               <p>I'm afraid your Majesty dealt a little too fairly with em.</p>
+            </sp>
+            <sp>
+               <speaker>K. J.</speaker>
+               <p>O no, Madam they lik't me the better fort; for my Subjects hate dissimulation: I know that, by experience, Madam; for when I came to the Crown I swore, I'd keep all the Laws, and when I was crown'd, I did not keep one of 'em; and would you believe it, Madam, they have hardly forgot it to this day. And therefore, Sir, when your Majesty lent me an Army three year ago, to pass into <hi>England</hi> I publisht, Sir, I publisht a Declaration before hand, to satisfy my people how I intended to use 'em: That, Sir, was my contrivance, and my Lord <hi>Melfort</hi>'s: And I was very much against the Advice my Lord <hi>Middle<g ref="char:EOLhyphen"/>ton</hi> gave me when he came over, to dissemble once more, but I yielded to perswasion with much ado; I say, with much ado, Sir, for whenever I yield, 'tis with much ado.</p>
+            </sp>
+            <sp>
+               <speaker>M. M.</speaker>
+               <p>Resolution, Sir, is a very good second to a nice Judgment.</p>
+            </sp>
+            <sp>
+               <speaker>K. J.</speaker>
+               <p>Yes Madam, they are both very good things; for had it not been for my Judgment and Resolution, I had inevitably been kill d at the <hi>Boyne;</hi> for Madam, I judg'd we should be beaten, and so resolvid to run away But what does your Majesty think of my pro<g ref="char:EOLhyphen"/>posal for an <hi>English</hi> Expedition?</p>
+            </sp>
+            <sp>
+               <speaker>K.</speaker>
+               <p>Why truly, Sir, I'm afraid a <hi>French</hi> Army would make your Enemies Desperate, and your Friends Jealous.</p>
+            </sp>
+            <sp>
+               <pb n="13" facs="tcp:39543:8"/>
+               <speaker>K. J.</speaker>
+               <p>Sir, I'll easily satisfy 'em about that, for I'll give 'em my word in a Declaration that I'll send the Army back at the end of the first Session, of Parliar<g ref="char:EOLhyphen"/>ment; and that will do Sir, for they'll believe me. Why Sir they believ'd my Brother, and when I came to the Crown, they believ'd me too Sir: And so they Voted the Duke of <hi>Monmouth</hi> a Traytor, and then they let me cut off his Head; and then they settled the Revenue, and so they set me on Horseback, and then they grew resty, for they love to Rebel now and then Sir; but they are a very good natur'd peo<g ref="char:EOLhyphen"/>ple in the bottom Sir, and mightily given to believe: —Not in God, Sir, I don't mean.</p>
+            </sp>
+            <sp>
+               <speaker>M. M.</speaker>
+               <p>If your Majesty will permit me to give you my opinion of this important business, I think the su<g ref="char:EOLhyphen"/>rest, cheapest, and quickest way for your re-establish<g ref="char:EOLhyphen"/>ment, is to go over <hi>Incognio,</hi> slip into the House of Lords, and clap your self into the Throne.</p>
+            </sp>
+            <sp>
+               <speaker>K.</speaker>
+               <p>A lucky thought; the advice is admirable; and since the less the Ceremony the greater the Success, I'll give immediate order to provide a Mackerel Boat; and then Sir I think, the sooner you sail the better.</p>
+            </sp>
+            <sp>
+               <speaker>K. J.</speaker>
+               <p>Yes Sir— But Sir— I can't tell Sir, I say Sir, if I should be taken Sir, as I was at <hi>Feversham:</hi> I say Sir, if I should be taken, then Sir—</p>
+            </sp>
+            <sp>
+               <speaker>M. M.</speaker>
+               <p>O Sir, when great Souls engage in glorious enterprizes, they have no sence of danger.</p>
+            </sp>
+            <sp>
+               <speaker>K. J.</speaker>
+               <p>No, Madam; Danger, a fig for danger; 'tis not that I'm afraid, I don't value danger, Madam; but only I say, I say only, if I should be taken.</p>
+            </sp>
+            <sp>
+               <speaker>K.</speaker>
+               <p>O Sir, there's no fear on't in the passage, and if once your Majesty is seated on your Throne, you'll see who dares pull you out again.</p>
+            </sp>
+            <sp>
+               <pb n="14" facs="tcp:39543:9"/>
+               <speaker>K. J.</speaker>
+               <p>Nay Sir, if once I'm there, let me alone with 'em; for, not to flatter my self Sir, I say Sir not to flatter my self, an awful look, and an elegant Tongue, are of great use of frighten some folks, and perswade others. I won't say Sir, I say Sir I won't say, that I am endow'd with em, but one thing Sir I will say, I have made such Speeches in that Throne as never King made before me. Sir, I have one rea<g ref="char:EOLhyphen"/>dy writ, which I intend to make to both Houses, up<g ref="char:EOLhyphen"/>on my Restoration. Here 'tis in my Coat pocket.</p>
+               <q>
+                  <floatingText xml:lang="eng">
+                     <body>
+                        <div type="speech">
+                           <opener>
+                              <salute>My Lords and Gentlemen,</salute>
+                           </opener>
+                           <p>BY the Providence of God, here I am once more a<g ref="char:EOLhyphen"/>mongst you; and that you ll soon find. You have been a great while out of the Way; my Father told you so upon the Scaffold, but you minded him no more, than St. <hi>James</hi>'s Church does Doctor W— However I be<g ref="char:EOLhyphen"/>lieve he'd have set you to rights, if you had let him but live, as you have done me.</p>
+                           <p>For my part I have long had it in my head to new mold you; but my Work-men were raw, and your Clay was too staff.</p>
+                           <p>You have now lain a soaking this six years, I hope I shall find you more supple: But to make all sure, I have prevailed with our Dear brother of <hi>France</hi> (your very good Friend) to lend me forty thousand of his Men of Business, who have an admirable method of deciding Differences, both in Church and State, without the help either of Parliament or Convocation? which, as I take it have been the Cause of all our misfortunes. But now I hope by Gods good Grace, in a very short time, to make men of one mind in a House, Catholick, Protestant, Whig and Tory, Christian, Atheist, Lords and Com<g ref="char:EOLhyphen"/>mons,
+<pb n="15" facs="tcp:39543:9"/>shall join hand in hand to do what I bid 'em.</p>
+                           <p>I don't doubt but my Lords, the Bishops, are satisfy'd Heaven approv'd my former undertakings, since it has wonderfully restor'd me to pursue my project, and therefore, lest I should be guilty of the great Sin of Ingratitude, I resolve the Glory of God shall be taken care of in the first place, by the Restoration of his Vi egerent, our Holy Father, the Pope, in all his ancieut Rights, Preroga<g ref="char:EOLhyphen"/>tives, Lands and Tenements whatsoever; either belonging to his immediate person, or those of his sacred Family, who for these hundred and fifty years past, have been scampering round the World in Querpo, like the Tribe of <hi>Levi.</hi>
+                           </p>
+                           <p>You little think, My Lords and Gentlemen, how many Rapes, Murders, Thefts and Buggeries, their holy persons have been forc't to commit, for want of a settled Revenue, to buy Meat, Drink, and Whores at the Market price. So they must be taken care of in the first place.</p>
+                           <p>In the next, I intend to wipe my A— with the <hi>Habeas Corpus</hi> Act, for I think it much to the Dishonour of the Nation, the <hi>Bastile</hi> at <hi>Paris</hi> should make more noise in the World than the Tower of <hi>London:</hi> And for a farther Supply of Bumfodder I have cast my eye upon your late Act for frequent Parliaments.</p>
+                           <p>When this is done, I intend to pursue the old Scent a<g ref="char:EOLhyphen"/>gainst Charters; for Corporations are but so many Common<g ref="char:EOLhyphen"/>wealths amongst us: and a Commonwealth is inconsistent with the noble <hi>English</hi> Spirit, as I have often heard say, by Men of Penetration. Your Concurrence in this, my Lords, I need not doubt; for your Lordships have suffi<g ref="char:EOLhyphen"/>ciently shewn you are too fond of your Titles, ever to be in Love with your Interest.</p>
+                           <p>The next think I resolve to do, is, to shut up the <hi>Ex<g ref="char:EOLhyphen"/>chequer,</hi> which is an infallible way to touch the Hearts of
+<pb n="16" facs="tcp:39543:10"/>my People; for if they have not yet repented they sent me abroad; they'll be sure at least to be sorry, they ever let me come home.</p>
+                           <p>There now wants but one thing more to compleat your Happiness, and that belongs to you, Gentlemen of the House of Commons: For the Lords, I well know, amongst other distinctions, have the Honour to be exempted from medling with the Wealth of the Nation: Which I think, alone, a sufficient ground, to set a Peer and a Republic at perpetual Odds. This one thing is, Gentlemen, to double the Revenue, and settle it upon me, and my Heirs.</p>
+                           <p>
+                              <hi>My Lords and Gentlemen,</hi>
+                           </p>
+                           <p>YOƲ fee the Scheme of my Government, I don't question, but you are resolv'd to approve on't; by your putting the Power once more into my hands.</p>
+                           <p>I don't know, whither I shall have any thing more to trouble you with this Sessions, which I desire may be a very short one: If I have, you shall hear on't; but my intention is, assoon as you have dispatcht the business I have recom<g ref="char:EOLhyphen"/>mended to you, to dismiss you; and I hope to manage things so in your absence, that during my Reign, there may be no farther occasion for your presence.</p>
+                        </div>
+                     </body>
+                  </floatingText>
+               </q>
+               <p>This is my Speech, Sir. How does your Ladyship like it, Madam?</p>
+            </sp>
+            <sp>
+               <speaker>M. M.</speaker>
+               <p>As all the world, Sir, must that hears it.</p>
+            </sp>
+            <sp>
+               <speaker>K. J.</speaker>
+               <p>Why truly, Madam, I think 'tis a home one; tho I must confess, 'tis none of my own penning; but I'm as fond on't, as if it were; for it hits my humor to a hair: Ha Madam?</p>
+            </sp>
+            <sp>
+               <speaker>M. M.</speaker>
+               <p>I think nothing can come up to it, Sir.</p>
+            </sp>
+            <sp>
+               <pb n="17" facs="tcp:39543:10"/>
+               <speaker>K. J.</speaker>
+               <p>No, Madam: But yet 'tis very well known, I made one at the beginning of my Reign came very near it.</p>
+            </sp>
+            <sp>
+               <speaker>M. M.</speaker>
+               <p>Yes, Sir; we heard on't in <hi>France:</hi> 'twas much admir'd.</p>
+            </sp>
+            <sp>
+               <speaker>M. J.</speaker>
+               <p>The Speech must have something in't, Ma<g ref="char:EOLhyphen"/>dam, it mov'd the Passions so: For some lookt me<g ref="char:EOLhyphen"/>lancholy, some pleas'd; some cry'd, some laught; and at last up they came with an Address upon t. Oons, Sir, how I long to be among 'em again.</p>
+            </sp>
+            <sp>
+               <speaker>K.</speaker>
+               <p>I wish you were, Sir, upon my word.</p>
+            </sp>
+            <sp>
+               <speaker>K. J.</speaker>
+               <p>Sir, I'd use em like Dogs.</p>
+            </sp>
+            <sp>
+               <speaker>K.</speaker>
+               <p>Sir, I believe it.</p>
+            </sp>
+            <sp>
+               <speaker>K. J.</speaker>
+               <p>There s five new Dukes, Sir— Sir, I'd truss 'em; I say, Sir, I d truss 'em up, like five Ferrets in a Warren.</p>
+            </sp>
+            <sp>
+               <speaker>K.</speaker>
+               <p>You'd do very well, Sir.</p>
+            </sp>
+            <sp>
+               <speaker>K. J.</speaker>
+               <p>Sir, I'd hang half the House of Peers.</p>
+            </sp>
+            <sp>
+               <speaker>K.</speaker>
+               <p>Sir, I believe they don't doubt it; they have good Estates.</p>
+            </sp>
+            <sp>
+               <speaker>K. J.</speaker>
+               <p>Estates, Sir! Why the whole Kingdom is ei<g ref="char:EOLhyphen"/>ther Crown Lands, Church Lands, or Rebels Lands, Sir; and so, Sir, every man being restored to his own the Pope would have one half, and I t'other. Pray, Sir, lend me your Fleet, and forty thousand Men; I'll engage to give your Majesty a very good account of 'em.</p>
+            </sp>
+            <sp>
+               <speaker>K.</speaker>
+               <p>Sir, both your Courage and your Conduct have been sufficiently try'd to prevail with me to trust an Army in your hands: But truly, Sir, I have not at present forty thousand Men to spare: Besides it would be much more to the Honour of God (whose Cause you are so deeply engaged in) if you landed a<g ref="char:EOLhyphen"/>lone; your Re-establishment would then appear the greater Miracle</p>
+            </sp>
+            <sp>
+               <pb n="18" facs="tcp:39543:11"/>
+               <speaker>K. J.</speaker>
+               <p>Miracle, Sir — Why, Sir, I must confess, I have a very great respect for a Miracle. Sir, my whole Life has been a Miracle: I'll defy the greatest Philosopher in <hi>France,</hi> to give a reasonable account of any one action in't.</p>
+            </sp>
+            <sp>
+               <speaker>M. M.</speaker>
+               <p>Why truly, Sir, your Life has been often consider'd by me with admiration: I have found eve<g ref="char:EOLhyphen"/>ry step of it so very unaccountable, that I have been perswaded from the moment you were depos'd, 'twould be owing to a Miracle whenever you were re<g ref="char:EOLhyphen"/>stor'd.</p>
+            </sp>
+            <sp>
+               <speaker>K. J.</speaker>
+               <p>Does your Ladiship think so?— Why, then I will go over alone— But, Sir— if I should be taken, as I was at <hi>Feversham,</hi> Sir?</p>
+            </sp>
+            <sp>
+               <speaker>K.</speaker>
+               <p>Why if you are; God's strong, Sir.</p>
+            </sp>
+            <sp>
+               <speaker>K. J.</speaker>
+               <p>That is true, Sir, God is strong— Yet I'm cruelly afraid of my Lord <hi>Danby,</hi> Sir, Sir; he'll never sorgive me.</p>
+            </sp>
+            <sp>
+               <speaker>K.</speaker>
+               <p>Why so, Sir?</p>
+            </sp>
+            <sp>
+               <speaker>K. J.</speaker>
+               <p>Because he knows, Sir, I'll never forgive him. Sir, he married my Daughter in spight of my Teeth. Pray Sir, lend me a hundred thousand <hi>Louis d'Ors</hi> to try if I can buy him. Sir, I'll immediately mortgage his Estate to you for your security.</p>
+            </sp>
+            <sp>
+               <speaker>K.</speaker>
+               <p>Sir, if you could once purchase the Landlord, I don't doubt but the Estate would make good the Debt: But I'm afraid he'll hardly set himself to sale, since, if I don't mistake, he once refus'd that summ from me; at a time when he might reasonably have afforded himself a better pennyworth, than, I doubt, in prudence, he can do now. But I think, Sir, the House of Commons would have hang'd him for all that.</p>
+            </sp>
+            <sp>
+               <speaker>K. J.</speaker>
+               <p>Sir, the House of Commons would hang you.</p>
+            </sp>
+            <sp>
+               <speaker>K.</speaker>
+               <p>Sir, I honour 'em.</p>
+            </sp>
+            <sp>
+               <pb n="19" facs="tcp:39543:11"/>
+               <speaker>M. M.</speaker>
+               <p>Your House of Commons, Sir, often put s me in mind of the <hi>Egyptian</hi> Dragon: Up it comes roaring every now and then, and if you don't throw it a Minister to stay its stomach, it falls a smoaking and fuming, till the whole Land's infected with it.</p>
+            </sp>
+            <sp>
+               <speaker>K. J.</speaker>
+               <p>Yes, Madam; It has often play'd the Dra<g ref="char:EOLhyphen"/>gon; but if ever I get a Horseback again, I intend to play St. <hi>George:</hi> And so, Sir, I wish your Majesty a good nights rest. Assoon as I get to <hi>St. Germains,</hi> I'll ask the Queen leave to send for my Lord <hi>Griffin</hi> into my Closet, and he and I'll settle the whole matter, for two Heads are better than one; and a wise Counsellor makes a discreet King. <stage>
+                     <hi>Exit</hi> K. J.</stage>
+               </p>
+            </sp>
+            <sp>
+               <speaker>K.</speaker>
+               <p>Farewel, incorrigible! Would I had lost my Crown, just on the self same terms, as thou hast thine. Sure Heaven exerts its utmost stretch of bounty, when graciously it makes a Man a Fool: There was but that, to save this royal piece of Clockwork, from being the mournfullest Wretch that treads the Earth: Yet on the Earth, 'tis he alone I envy; baffled, and buffetted, and kick't about the Globe; beggerd, contemn'd, dethron'd, drove like a Sparrow round from Barn to Barn, he chirrups still. The Darts of Fortune fly at him in vain, not one can peirce his Heart; his Armor's proof, Back, Breast and Headpiece, all of hardned Folly. He had a Scepter in his Hand; he dropt it. What then? Has got another in his head worth five on't. His antient Crown was circumscrib'd by Laws; this is as absolute as Heaven: He doubles his Revenne, he encreases his Army, he rewards his Friends, he hangs his Enemies, he blows up his Parliament, he knocks down Heresy, he restores his Religion, and rides a Hare hunting at <hi>St. Germains.</hi>
+               </p>
+               <pb n="20" facs="tcp:39543:12"/>
+               <p> O happy Monarch! He enjoys without possession; he's rich without Treasure, he's a Hero without fight<g ref="char:EOLhyphen"/>ing, he's triumphant without Victory, he's a King without a Crown, a Saint without Religion; he takes Heaven for his Guardian, and me for his Friend. All this, Almighty Folly! is due to thee</p>
+               <p>But to business: This Farce has taken up our time too long. What think you, Madam, of the present face of our affairs?</p>
+            </sp>
+            <sp>
+               <speaker>M. M.</speaker>
+               <p>I think, we have grounds to hope a favora<g ref="char:EOLhyphen"/>ble issue of this dangerous War. I look upon the Prin<g ref="char:EOLhyphen"/>cess of <hi>Orang<gap reason="illegible: faint" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>s</hi> Death, and the approaching Dissolu<g ref="char:EOLhyphen"/>tion of the <hi>English</hi> Parliament, a sufficient encourage<g ref="char:EOLhyphen"/>ment to us to pursue it, unless they would now accept of very moderate terms. For tho 'tis true we have been deceiv'd in the Conclusions we have made upon every Sessions of Parliament, that the Charge of the War would be voted inconsistent with the Luxury of the Nation; yet, to our comfort, we have seen that party, from whose nice spun care of Liberty and Pro<g ref="char:EOLhyphen"/>perty, we hope to receive our Deliverance, strong enough to throw the levying of the Subsidy upon such extraordinary methods, as in all probability will not suffice another year, if they do this: For I believe the Funds they have already establisht, have pretty well swept in the loose corns of the Kingdom. What think you Monsieur <hi>de Pontchartrain?</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>M. de P.</speaker>
+               <p>Madam, I think there is great reason to hope so, from what we have experienc'd in our home affairs: Where upon all the new erections of Places, <hi>Tontine, Hotel de Ville, &amp;c.</hi> we have not found above ten or twelve Millions Sterling paid into the Treasury since the beginning of the War, and this has drain'd the Kingdom of all the ready money people had to
+<pb n="21" facs="tcp:39543:12"/>dispose of. Now if it be consider'd, that there is much more Money in <hi>France</hi> than in <hi>England</hi> (tho, in proportion to the extent of each Kingdom, they may be richer than we) and that the Trade here being generally at a stand, what Money was to be dispos'd of, has in probability been brought in, for want of o<g ref="char:EOLhyphen"/>ther means to employ it; I believe we may reasonably conclude, that the <hi>English</hi> (whose Trade is open, and employs their Cash) will not be able another year to find two or three Millions upon any Fund whatsoever, unless they will give such exorbitant rates, as may make it worth the Merchants while to trade at home instead of abroad: Which if they please to do, we'll ask no more.</p>
+            </sp>
+            <sp>
+               <speaker>M. M.</speaker>
+               <p>I'm glad to find you are of my opinion. Does your Majesty joyn with us?</p>
+            </sp>
+            <sp>
+               <speaker>K.</speaker>
+               <p>I believe y'are right.</p>
+            </sp>
+            <sp>
+               <speaker>M. M.</speaker>
+               <p>If we are, their new Parliament is like to have this Game before 'em. Either they must accept of such indifferent terms of Peace, as 'tis probable we then may offer 'em, or they must lessen the expence of the War, or they must resolve to raise their Money by such means, as the whole Subsidy may be paid in within the year, without a Debt upon the Nation. If they accept the Peace, your Majefly makes a glori<g ref="char:EOLhyphen"/>ous end of the War. If they lessen their expence, the Confederacy drops at once. But if they once resolve (which Heaven avert) to raise the Subsidy without a Debt, you are undone, your Subjects hearts will then fink down at once, from the dread prospect of a te<g ref="char:EOLhyphen"/>dious War: Your Victories have hitherto been Cor<g ref="char:EOLhyphen"/>dials to their drooping Spirits: Drunk with Success they have though the World their own; and won<g ref="char:EOLhyphen"/>dred every day they did not see Ambassadours with
+<pb n="22" facs="tcp:39543:13"/>Ropes about their Neoks, crawling along upon their Hands and Knees t'implore a Peace. But the Defen<g ref="char:EOLhyphen"/>sive War, to which we are at last reduc't, alarms 'em. They grow inquisitive; ask Questions: Why, What, and How; words obsolete in <hi>France,</hi> are now in use again. 'Tis true, they are told, we are only parrying a thrust or two; and when our Enemies are out of breath we shall disarm 'em: This they are told.</p>
+            </sp>
+            <sp>
+               <speaker>K.</speaker>
+               <p>And may be they retold true: For my part, I hope more from the thickness of our Enemies Skulls, than I fear from the length of their Swords. Were their Understandings as well winded as their Purses, I'm afraid we should scarce be able to parry, so long as they to thrust; but my Faith is in their old <hi>Brittish</hi> Policy, they have mov'd by it, through the whole Course of the War, and we know it always refines, when they draw to a Peace.</p>
+               <p>Were their Brains nourisht by any thing, but their Beef and their Pudding, they could never have con<g ref="char:EOLhyphen"/>ceiv'd, I would offer 'em any reasonable terms, till they gave me demonstration both of their Will and Power, to make a <hi>Trojan</hi> War on't, if less time would not serve to decide our Quarrel in: But they have gone so gingerly to work (bar the word vigorous in the Subsidy Vote) one would think they were afraid of making me start. The most they have ever threatned me with, has been <hi>One Year longer:</hi> Let us try <hi>Oue Campagne more,</hi> cry they: Why what do these block-headly <hi>Islanders</hi> think of? Do they imagine, when Kingdoms are at stake upon one Summers throw, a Monarch, absolute as I, can want for any thing? I may exhaust my Substance by degrees, but never sure can want a Cordial Drop to rouse my Spirits, in a fainting fit. No: They may weary me, but ne're
+<pb n="23" facs="tcp:39543:13"/>beat me down; they must not think to carry me by storm. When they can starve me, I'll capitulate: But their Blockade must have a much more lasting face, before it looks me even to a stomach.</p>
+            </sp>
+            <sp>
+               <speaker>M. de P.</speaker>
+               <p>Sir, my Experience, as a Politician, is so very small, there may be some presumption in offer<g ref="char:EOLhyphen"/>ing my Advice; especially where my Opinion hap<g ref="char:EOLhyphen"/>pens to vary from that your Majesty seems to be of: But my fervent Zeal, I hope, Sir, will excuse me.</p>
+               <p>The continu'd Refusals of the Duke of <hi>Savoy,</hi> and other Members of the League, to hearken to those advantageous offers, Your Majesty has though fit to make 'em, even in the worst of times, I believe, has convinc'd you, Sir, your measures are not to be le<g ref="char:EOLhyphen"/>vell'd to the prospect of a separate Peace. The whole Machine is mov'd by that great Wheel, the Commons of <hi>England,</hi> and till that stands still, the Engine will continue to work: 'Tis therefore, at that alone we are to point our thoughts; and from thence alone, we are to expect our Destiny. 'Tis a masly Wheel, Sir, tho there may be some rotten Spoaks in't, twill often crack, but I'm afraid 'twill be a tedious time a breaking; or to suppose the best that we can hope, that all its joints at length were loose, and shaking all to pieces; who knows, but in so great an exigence, Workmen may be discovered in the land, dexterous enough to plate it round with Steel, and then it lasts for every. 'Tis true, they must be dexterous indeed; for if they drive one Nail awry, 'tis odds they split the Wood. But would we were assured 'twould come to that: I am affraid the State will ne're grow sick enough to stand in need of Cupping; its health will be restor'd by gentler means: A little too much blood, I doubt's, the only cause of their Distemper.
+<pb n="24" facs="tcp:39543:14"/>Their Veins are full, they have too many ways for raising Money, and thence their present difficulties come; for every man is fond of his own thought, and consequently must oppose his Neighbours. But let 'em bleed one Sessions more, and all their Cavils will reduce to one; the Question will be short,</p>
+               <p>
+                  <hi>Shall we be baffled by the</hi> French <hi>abroad;<lb/> Or run the Risque of an Excise at home.</hi>
+               </p>
+               <p>Sir, when once it comes to this; I am affraid Bugbears will prove but Shadows: Things, as they will then be nearer to the fight, will appear in true propor<g ref="char:EOLhyphen"/>tions: The danger of the Enemy will shew much greater, that of an Excise much less: a thousand va<g ref="char:EOLhyphen"/>rious causes will then concur, to make the Pill go down. Honour will make some friends to it; Re<g ref="char:EOLhyphen"/>venge will stir up others; Fear will increase the Num<g ref="char:EOLhyphen"/>ber, and Interest will ring in a Shoal. the Tide will be too strong for us to stem; our Advocates will plead in vain, the Point will be carried, and we per<g ref="char:EOLhyphen"/>haps undone. I tremble at the consequences of a fixt Revenue, a method in that, will produce order in every thing else: Wisdom in the Government, will bring Conduct into the Army; and Discretion in the Officer, will give Courage to the Soldier. That Na<g ref="char:EOLhyphen"/>tion once had a brave generous Spirit, we may re<g ref="char:EOLhyphen"/>member it, it cost us dear: I doubt 'tis only lull'd a<g ref="char:EOLhyphen"/>sleep in Luxury; too long a Noise of Drums may chance to wake it: I would they were unbrac'd.</p>
+            </sp>
+            <sp>
+               <speaker>K.</speaker>
+               <p>Thou hast rous'd a thought, that shakes my resolution; yet still I stand resolv'd. Castles and stubborn Oaks sometimes will shake, yet 'tis no easy matter to remove 'em. This ponderous Globe, if self,
+<pb n="25" facs="tcp:39543:14"/>will tremble too, yet round it goes, and still performs its work. Nay, the most timerous parts of the Crea<g ref="char:EOLhyphen"/>tion, have in their kinds a generous perseverance; the School-boy trembles at the Rod, yet still pursues his Flay. The Thief rides shivering by th' ill boding Gibbet, yet takes your Purse before he's out of sight on't. Even the poor tatter'd Whore, tho threatning Batteries of fatal Pox mounted at her Gate, loaden, and prim'd, and ready to give fire; does she cry out for Quarters?— Nay, view the Coward Priest, with all his quaking prospects of Damnation, is he not still a Villain to the end; Will he not risque Sal<g ref="char:EOLhyphen"/>vation for Dominion; and leave his darling Soul, to patch up the best peace it can, at the last gasp of Life? And shall I yield, because there's ground for fear? No, blasted by my Laurels if I do: I'll never help my Foes to play their Game; I know they have it in their hands. But dost not see? They are such wretched Bunglers, they have not yet learnt how to sort their Cards, such Gamesters ne're can win.</p>
+            </sp>
+            <sp>
+               <speaker>M. de P.</speaker>
+               <p>Unless they should improve, Sir.</p>
+            </sp>
+            <sp>
+               <speaker>K.</speaker>
+               <p>That we must risque; if it will bear that name, for by the Gods, I think our venture's small: But let's suppose the worst, and most unlikely thing that can befal us. Our Enemys grown wise: Why this may cost us— half a score of Towns; for there's the mighty Prize for which we battle, for which Families are destroy'd by Plunders, Nations undone by Taxes, Countries consum'd with Fire, Rivers run with Blood, Women ravisht, Children murdered, the Earth in Confusion, and Heaven set at Defiance: Ha, ha, ha, ha, ha. The World's a Bubble, and Mankind's an Ass.</p>
+               <stage>Exeunt.</stage>
+            </sp>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
